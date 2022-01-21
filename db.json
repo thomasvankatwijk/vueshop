@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "title": "Playstation 5",
+      "id": "1",
+      "text": "Laden gaat sneller dan ooit dankzij een ultrasnelle SSD. Er staat een hele nieuwe generatie geweldige PlayStation-games voor je klaar, waar je nog dieper in kunt duiken dankzij ondersteuning voor haptische feedback1, adaptieve triggers1 en 3D-audio.",
+      "img": "PS5.jpg",
+      "reviewscore": "",
+      "test": "test"
+    },
+    {
+      "title": "Xbox X",
+      "id": "2",
+      "text": "Games die zijn gebouwd met de Xbox Series X|S-developerkit laten aanzienlijk kortere laadtijden zien en verbluffende beelden tot 120 fps",
+      "img": "Xbox.jpg",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "title": "iPhone 13",
+      "id": "3",
+      "text": "Filmmakers verplaatsen de focus in beeld vaak van het ene onderwerp naar het andere om zo de aandacht van de kijker vast te houden. Nu kun je met iPhone heel gemakkelijk ook deze techniek gebruiken.",
+      "img": "iPhone.jpg",
+      "day": "March 7th at 2:00pm",
+      "reminder": false
+    },
+    {
+      "title": "Samsung",
+      "id": "4",
+      "text": "Outfit your home theater with this Samsung 65-inch smart TV. The 4K Ultra HD resolution ensures crisp, detailed picture quality, while the Dolby digital plus sound system offers an immersive listening experience. ",
+      "img": "Samsung.jpg",
+      "reviewscore": "",
+      "test": "test"
+    },
+    {
+      "title": "Miele Professional",
+      "id": "5",
+      "text": "Deze kwalitatief solide RVS wasautomaat uit de Miele Professional Performance serie beschikt over een 7 kg wastrommel en is voorzien van een afvoerklep. Deze wasautomaat is verder voorzien van een SoftCare trommel en heeft zeer veelzijdige wasprogramma's, waaronder een desinfecteer mogelijkheid.",
+      "img": "Miele.jpg",
+      "day": "March 6th at 1:30pm",
+      "reminder": true
+    },
+    {
+      "title": "Big Green Egg",
+      "id": "6",
+      "text": "De Big Green Egg Large is de meestverkochte maat uit de Big Green Egg serie. En dat is niet voor niets! Met deze uitvoering bestel je direct het onderstel met intEGGrated handler en acacia zijplankjes mee. De large weegt 73 kg en het rooster heeft een diameter van 46 cm.",
+      "img": "Greenegg.jpg",
+      "day": "March 7th at 2:00pm",
+      "reminder": false
+    }
+  ],
+  "cart": []
+}
